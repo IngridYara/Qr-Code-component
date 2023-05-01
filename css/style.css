@@ -23,7 +23,7 @@ article#qr-code{
 
     position: absolute;
     width: 280px;
-    height: 450px;
+    height: 470px;
     background-color: hsl(0, 0%, 100%);
     border-radius: 20px;
     padding: 15px;
@@ -39,7 +39,6 @@ article#qr-code > div#img{
     background: transparent url('./../images/image-qr-code.png') center center / cover no-repeat;
     border-radius: 10px;
     height: 270px;
-   
 }
 
 article#qr-code > div#info > h1{
