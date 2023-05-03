@@ -47,6 +47,7 @@ article#qr-code > div#info > h1{
     padding: 10px;
     padding-top: 20px;
     padding-bottom: 20px;
+    margin-top: 20px;
     text-align: center;
     font: 700 1.4rem 'Outfit', san-serif;
 }
@@ -61,7 +62,7 @@ article#qr-code > div#info > p{
 div.attribution{
 
     position: absolute;
-    top:95%;
+    top:95.5%;
     left: 50%;
-    transform: translate(-50%);
+    transform: translate(-50%, -50%);
 }
